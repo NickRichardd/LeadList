@@ -1,0 +1,3 @@
+date,day_of_week,is_business_day,chequing_combined_projected_balance,credit_card_projected_balance_owed,loc_projected_balance_owed,bills_due_today,bill_amount_today,discretionary_spend_estimate,running_total,below_threshold_flag,notes
+2026-08-05,Wed,TRUE,4890.30,842.10,0.00,,0.00,85.40,4890.30,FALSE,
+2026-09-01,Tue,TRUE,2954.75,910.55,0.00,"Mortgage, Netflix",1866.99,85.40,2954.75,FALSE,Mortgage + Netflix due

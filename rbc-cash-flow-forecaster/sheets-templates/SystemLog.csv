@@ -1,0 +1,2 @@
+run_timestamp,run_id,status,transactions_synced_count,new_transactions_count,balances_updated_count,bills_matched_count,suggested_bills_added_count,sms_sent_count,error_message,duration_seconds
+2026-08-05T04:00:12Z,zap_run_sample_001,success,18,6,4,2,0,1,,14.2

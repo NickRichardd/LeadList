@@ -1,0 +1,3 @@
+transaction_id,date,account_name,account_id,description,merchant_name,amount,direction,plaid_category_primary,plaid_category_detailed,pending,is_fixed_bill_match,synced_at
+plaid_txn_sample_001,2026-08-01,RBC Personal Chequing,plaid_acct_sample_chq,NETFLIX.COM,Netflix,16.99,debit,Entertainment,Subscription,FALSE,TRUE,2026-08-02T04:05:00Z
+plaid_txn_sample_002,2026-08-01,RBC Joint Chequing,plaid_acct_sample_joint,PAYROLL DEPOSIT,,2450.00,credit,Transfer,Payroll,FALSE,FALSE,2026-08-02T04:05:00Z

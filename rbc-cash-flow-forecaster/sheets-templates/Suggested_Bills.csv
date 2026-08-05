@@ -1,0 +1,2 @@
+suggestion_id,detected_name,matched_transaction_ids,avg_amount,amount_variance_pct,detected_frequency,occurrences,first_seen_date,last_seen_date,account,status,date_detected
+sugg-001,SPOTIFY,plaid_txn_sample_010,plaid_txn_sample_044,10.99,0.0,monthly,2,2026-06-05,2026-07-05,RBC Personal Chequing,pending,2026-08-02

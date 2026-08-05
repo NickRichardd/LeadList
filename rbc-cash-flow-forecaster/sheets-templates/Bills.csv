@@ -1,0 +1,3 @@
+bill_id,name,amount,frequency,due_day_or_date,next_due_date,account_paid_from,category,active,last_reminder_sent_date,notes
+bill-001,Mortgage,1850.00,monthly,1,2026-09-01,RBC Joint Chequing,Housing,TRUE,,
+bill-002,Netflix,16.99,monthly,1,2026-09-01,RBC Personal Chequing,Subscriptions,TRUE,,
